@@ -146,9 +146,10 @@ The team behind Juncture has created ample documentation and sample files to hel
 - [About](about)
 - [Terms and conditions](terms-and-conditions)
 
+<img width="263" alt="Screen Shot 2022-11-15 at 10 19 13 PM" src="https://user-images.githubusercontent.com/118155760/202100661-17828f2d-d19e-4f0d-be30-a87c9aa5e4d5.png">
 
 
-<img width="265" alt="Screen Shot 2022-11-15 at 9 57 10 PM" src="https://user-images.githubusercontent.com/118155760/202098337-7a2a7936-9101-4575-99ea-adc6ed1bfcab.png">
+<img width="596" alt="Screen Shot 2022-11-15 at 10 19 48 PM" src="https://user-images.githubusercontent.com/118155760/202100694-61b78f8a-2e3a-4a72-b27c-df9b66f8256d.png">
 
 
 
