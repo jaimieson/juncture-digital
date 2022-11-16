@@ -149,7 +149,16 @@ The team behind Juncture has created ample documentation and sample files to hel
 <param ve-image label="Girl with a Pearl Earring" description="painting by Johannes Vermeer" license="public domain" url="https://github.com/jaimieson/juncture-digital.wiki.git">
 
 
+
+
 <param ve-image fit="cover" manifest="https://github.com/jaimieson/juncture-digital.wiki.git">
+
+
+<param ve-config component="default" class="home" layout="test1" fixed-header="true" logo="https://github.com/jaimieson/juncture-digital.wiki.git" logins-disabled="false" force-hamburger>
+<param nav label="Contact Us" action="contact-us" icon="fas fa-envelope">
+
+
+<img width="265" alt="Screen Shot 2022-11-15 at 9 57 10 PM" src="https://user-images.githubusercontent.com/118155760/202098337-7a2a7936-9101-4575-99ea-adc6ed1bfcab.png">
 
 
 
