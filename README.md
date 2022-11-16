@@ -152,7 +152,11 @@ The team behind Juncture has created ample documentation and sample files to hel
 <img width="596" alt="Screen Shot 2022-11-15 at 10 19 48 PM" src="https://user-images.githubusercontent.com/118155760/202100694-61b78f8a-2e3a-4a72-b27c-df9b66f8256d.png">
 
 
-<param ve-image rotate="45" manifest=<param ve-image rotate="45" manifest="https://user-images.githubusercontent.com/118155760/202100694-61b78f8a-2e3a-4a72-b27c-df9b66f8256d.png">
+<param ve-image label="Girl with a Pearl Earring" description="painting by Johannes Vermeer" license="public domain" url="https://user-images.githubusercontent.com/118155760/202100661-17828f2d-d19e-4f0d-be30-a87c9aa5e4d5.png">
+
+<param ve-image fit="cover" manifest="https://user-images.githubusercontent.com/118155760/202100661-17828f2d-d19e-4f0d-be30-a87c9aa5e4d5.png">
+
+<param ve-image rotate="45" manifest=<param ve-image rotate="45" manifest="https://user-images.githubusercontent.com/118155760/202100661-17828f2d-d19e-4f0d-be30-a87c9aa5e4d5.png">
 
 
 
