@@ -7,7 +7,7 @@
 ![background image](/images/hero-juncture.png)
 <param class="background-image">
 
-Create and share interactive essays using free and open web resources
+Create & share interactive essays using free and open web resources
 
 [Get started](#get-started)
 <param class="button">
@@ -145,3 +145,10 @@ The team behind Juncture has created ample documentation and sample files to hel
 - Brought to you by: [![JSTOR labs](/images/Labs_logo_knockout.svg "JSTOR Labs")](https://labs.jstor.org)
 - [About](about)
 - [Terms and conditions](terms-and-conditions)
+
+<param ve-image label="Girl with a Pearl Earring" description="painting by Johannes Vermeer" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/f/fa/Girl_with_a_Pearl_Earring_%28Full_Renovation%29.jpg">
+
+<param ve-image fit="cover" manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+
+
+
